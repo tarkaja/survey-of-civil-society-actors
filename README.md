@@ -27,6 +27,7 @@ Some observations:
 
 The information below can be found in spreadsheet format at: https://ethercalc.org/m5ovdzu7blw4
 
+**Table of Contents**
 
 * Activists
 * Charities
@@ -53,7 +54,6 @@ The information below can be found in spreadsheet format at: https://ethercalc.o
 * Student Organizations
 * Trade Unions
 * Women's Rights Organizations
-
 
 ##Activists
 
