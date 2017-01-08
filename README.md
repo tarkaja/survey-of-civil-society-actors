@@ -133,6 +133,7 @@ List_of_environmental_organizations: https://en.wikipedia.org/wiki/List_of_envir
 A foundation (also a charitable foundation) is a legal category of nonprofit organization that will typically either donate funds and support to other organizations, or provide the source of funding for its own charitable purposes.
 
 **Wau Holland Foundation** https://www.wauland.de/
+
 List of charitable foundations: https://en.wikipedia.org/wiki/List_of_charitable_foundations
 
 ##Human Rights Organisations
@@ -140,6 +141,7 @@ List of charitable foundations: https://en.wikipedia.org/wiki/List_of_charitable
 International non-governmental human rights organizations such as Amnesty International, Human Rights Watch, International Service for Human Rights and FIDH monitor what they see as human rights issues around the world and promote their views on the subject. Human rights organizations have been said to "translate complex international issues into activities to be undertaken by concerned citizens in their own community". Human rights organizations frequently engage in lobbying and advocacy in an effort to convince the United Nations, supranational bodies and national governments to adopt their policies on human rights. Many human-rights organizations have observer status at the various UN bodies tasked with protecting human rights.
 
 **Amnesty International** https://www.amnesty.org/en/ 
+
 **UC Berkeley Human Rights Center** https://www.law.berkeley.edu/research/human-rights-center/programs/technology/
 
 List of human rights organisations: https://en.wikipedia.org/wiki/List_of_human_rights_organisations
@@ -149,6 +151,7 @@ List of human rights organisations: https://en.wikipedia.org/wiki/List_of_human_
 Indigenous rights are those rights that exist in recognition of the specific condition of the indigenous peoples. This includes not only the most basic human rights of physical survival and integrity, but also the preservation of their land, language, religion, and other elements of cultural heritage that are a part of their existence as a people. This can be used as an expression for advocacy of social organizations or form a part of the national law in establishing the relation between a government and the right of self-determination among the indigenous people living within its borders, or in international law as a protection against violation by actions of governments or groups of private interests.	
 
 **Kimberley Land Council** http://www.klc.org.au/
+
 List of indigenous rights organizations: https://en.wikipedia.org/wiki/List_of_indigenous_rights_organizations
 
 ##Journalism Organizations
@@ -156,7 +159,9 @@ List of indigenous rights organizations: https://en.wikipedia.org/wiki/List_of_i
 Journalism is the production and distribution of reports on the interaction of events, facts, ideas, and people that are the "news of the day" and that informs society to at least some degree.
 
 **Investigative Reporters and Editors** http://www.ire.org/
+
 **Wikileaks** https://wikileaks.org/
+
 List of journalism organizations: https://en.wikipedia.org/wiki/Category:Journalism_organizations
 
 ##LGBT Rights Organizations
@@ -165,6 +170,7 @@ LGBT rights organizations are civil rights, health, and community organizations 
 
 
 **Háttér Society**  http://en.hatter.hu
+
 **InterPride** http://www.interpride.org/
 
 List of LGBT organizations: https://en.wikipedia.org/wiki/List_of_LGBT-related_organizations_and_conferences
