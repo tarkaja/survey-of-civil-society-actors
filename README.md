@@ -128,7 +128,7 @@ An environmental organization is an organization coming out of the conservation 
 
 **Greenpeace** http://www.greenpeace.org/international/en/
 
-List_of_environmental_organizations: https://en.wikipedia.org/wiki/List_of_environmental_organizations
+List of environmental organizations: https://en.wikipedia.org/wiki/List_of_environmental_organizations
 
 ##Foundations
 
@@ -333,4 +333,4 @@ Women's rights are the rights and entitlements claimed for women and girls of ma
 
 **National Organization for Women** http://now.org/
 
-List of women's rights_activists: https://en.wikipedia.org/wiki/List_of_women's_rights_activists
+List of women's rights activists: https://en.wikipedia.org/wiki/List_of_women's_rights_activists
