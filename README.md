@@ -1,9 +1,9 @@
 # A Preliminary Survey Of Civil Society Actors
-## Think of it as a 'map' that illustrates the scope and diversity of civil society at large.
+### Think of it as a 'map' that illustrates the scope and diversity of civil society at large.
 
 Security Without Borders (SWB) https://securitywithoutborders.org/ describes itself as, "assisting journalists, human rights defenders, and non-profit organizations".
 
-### "Are you an activist, journalist, or human rights defender?"
+#### "Are you an activist, journalist, or human rights defender?"
 
 A person looking at the website might ask themself, "I don't know, am I? I'm not Edward Snowden or Laura Poitras. I'm not a member of Amnesty and I doubt my affinity group qualifies as a NPO."
 
@@ -22,3 +22,35 @@ Some observations:
 1. Within any type, there are actors across the spectrum (e.g. both pro-choice and pro-life activists believe they are fighting injustices).
 
 2. The diversity of actors within each type is as broad as across types (e.g. animal rights activists may have more affinity with fair trade farming co-ops than disability rights activists).
+
+##Activists
+
+Activism consists of efforts to promote, impede, or direct social, political, economic, and/or environmental reform or stasis with the desire to make improvements in society.
+
+* Animal Rights
+* Anti-Nuclear
+* Anti-War;
+* Civil Rights
+* Disability Rights
+* Environmental
+* Human Trafficking
+* LGBT Rights; Privacy
+* Women's Rights
+
+**Sea Shepherd Conservation Society** https://www.seashepherd.org/
+
+Lists of activists: https://en.wikipedia.org/wiki/Lists_of_activists
+					
+##Charities
+
+A charitable organization is a type of non-profit organization (NPO). It differs from other types of NPOs in that it centers on philanthropic goals as well as social well-being (e.g. charitable, educational, religious, or other activities serving the public interest or common good).
+
+* Animal
+* Arts & Culture
+* Education
+* Environmental
+* Health
+
+**Direct Relief** https://www.directrelief.org/
+
+List of charitable foundations: https://en.wikipedia.org/wiki/List_of_charitable_foundations
