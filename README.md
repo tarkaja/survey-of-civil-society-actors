@@ -27,6 +27,34 @@ Some observations:
 
 The information below can be found in spreadsheet format at: https://ethercalc.org/m5ovdzu7blw4
 
+
+* Activists
+* Charities
+* Clubs
+* Community Foundations
+* Community Organizations
+* Consumer Organizations
+* Cooperatives
+* Environmental Organizations
+* Foundations
+* Human Rights Organisations
+* Indigenous Rights Organizations
+* Journalism Organizations
+* LGBT Rights Organizations
+* Non-Aligned Individuals
+* Non-Governmental Organizations (NGOs)
+* Non-Profit Organizations (NPOs)
+* Political Parties
+* Professional Associations
+* Religious Organizations
+* Social Enterprises
+* Social Movement Organizations
+* Social Justice Organizations
+* Student Organizations
+* Trade Unions
+* Women's Rights Organizations
+
+
 ##Activists
 
 Activism consists of efforts to promote, impede, or direct social, political, economic, and/or environmental reform or stasis with the desire to make improvements in society.
