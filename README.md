@@ -25,6 +25,8 @@ Some observations:
 
 3. Many actors can be categorized as multiple types (e.g. Amnesty International is a charity, NGO and a human rights organization).
 
+The information below can be found in spreadsheet format at: https://ethercalc.org/m5ovdzu7blw4
+
 ##Activists
 
 Activism consists of efforts to promote, impede, or direct social, political, economic, and/or environmental reform or stasis with the desire to make improvements in society.
